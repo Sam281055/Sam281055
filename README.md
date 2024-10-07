@@ -4,6 +4,7 @@
 <!--Intro start-->
 
 <p align="left">
+  <br>
 🎓 ESTUDIANTE DE ANALISTA DE SISTEMAS
 
 💻 Soy un fullstack developer junior, me apasiona programar y aprender cosas nuevas.

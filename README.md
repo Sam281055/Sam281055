@@ -9,7 +9,7 @@
 
 💻 Soy un fullstack developer junior, me apasiona programar y aprender cosas nuevas.
 
-📝 roles en el ámbito: desarrollador... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... programador freelance... y en un futuro quién sabe
 
 📫 Contacto: **SL281055@gmail.com**
 <!--Intro end-->

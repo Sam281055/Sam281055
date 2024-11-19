@@ -20,7 +20,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,angular,bun,cs,java,idea,php,py,dotnet,react,css,html,js,ts,nestjs,tailwind,nodejs,mysql,sqlite,firebase,git,gitlab,github,postman,vscode,bash,linux,mint,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,angular,bun,cs,java,idea,py,dotnet,react,css,html,js,ts,nestjs,tailwind,nodejs,mysql,sqlite,firebase,git,gitlab,github,postman,vscode,bash,linux,mint,ps&perline=12" />
   </a>
 </p>
 <br>

@@ -7,7 +7,7 @@
   <br>
 🎓 ESTUDIANTE DE ANALISIS DE SISTEMAS
 
-💻 Soy un fullstack developer junior, me apasiona programar y aprender cosas nuevas.
+💻 Soy un fullstack developer, me apasiona programar y aprender cosas nuevas.
 
 📝 roles en el ámbito: desarrollador... programador freelance... y en un futuro quién sabe
 
